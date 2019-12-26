@@ -5,8 +5,8 @@ sudo: false
 os:
   - linux
 arch: 
-  -amd64
-  -arm64
+  - amd64
+  - arm64
   
 env:
   - TOXENV=py26
