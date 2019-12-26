@@ -1,12 +1,6 @@
 language: python
 
 sudo: false
-
-os:
-  - linux
-arch: 
-  - amd64
-  - arm64
   
 env:
   - TOXENV=py27
