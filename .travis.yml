@@ -7,7 +7,6 @@ os:
 arch: 
   - arm64
   - amd64
-  
 env:
   - TOXENV=py27
   - TOXENV=py35
